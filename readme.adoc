@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fc332030%2Fgit-mirror-action.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fc332030%2Fgit-mirror-action?ref=badge_shield)
+
 
 = git mirror action
 
@@ -29,3 +31,7 @@ jobs:
 ----
 
 modify from wearerequired/git-mirror-action
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fc332030%2Fgit-mirror-action.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fc332030%2Fgit-mirror-action?ref=badge_large)
